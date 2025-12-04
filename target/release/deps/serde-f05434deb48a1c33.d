@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Desktop\rust_cassino\target\release\deps\serde-f05434deb48a1c33.d: C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\lucas\OneDrive\Desktop\rust_cassino\target\release\build\serde-8ff16df7716c4b4d\out/private.rs
+
+C:\Users\lucas\OneDrive\Desktop\rust_cassino\target\release\deps\libserde-f05434deb48a1c33.rlib: C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\lucas\OneDrive\Desktop\rust_cassino\target\release\build\serde-8ff16df7716c4b4d\out/private.rs
+
+C:\Users\lucas\OneDrive\Desktop\rust_cassino\target\release\deps\libserde-f05434deb48a1c33.rmeta: C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\lucas\OneDrive\Desktop\rust_cassino\target\release\build\serde-8ff16df7716c4b4d\out/private.rs
+
+C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\lucas\OneDrive\Desktop\rust_cassino\target\release\build\serde-8ff16df7716c4b4d\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\lucas\\OneDrive\\Desktop\\rust_cassino\\target\\release\\build\\serde-8ff16df7716c4b4d\\out

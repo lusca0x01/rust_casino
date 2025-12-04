@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Desktop\rust_cassino\target\release\deps\thiserror-802254a2bfe666fd.d: C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.17\src\lib.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.17\src\aserror.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.17\src\display.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.17\src\var.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.17\src\private.rs C:\Users\lucas\OneDrive\Desktop\rust_cassino\target\release\build\thiserror-21ed0a303295c3c9\out/private.rs
+
+C:\Users\lucas\OneDrive\Desktop\rust_cassino\target\release\deps\libthiserror-802254a2bfe666fd.rlib: C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.17\src\lib.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.17\src\aserror.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.17\src\display.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.17\src\var.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.17\src\private.rs C:\Users\lucas\OneDrive\Desktop\rust_cassino\target\release\build\thiserror-21ed0a303295c3c9\out/private.rs
+
+C:\Users\lucas\OneDrive\Desktop\rust_cassino\target\release\deps\libthiserror-802254a2bfe666fd.rmeta: C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.17\src\lib.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.17\src\aserror.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.17\src\display.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.17\src\var.rs C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.17\src\private.rs C:\Users\lucas\OneDrive\Desktop\rust_cassino\target\release\build\thiserror-21ed0a303295c3c9\out/private.rs
+
+C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.17\src\lib.rs:
+C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.17\src\aserror.rs:
+C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.17\src\display.rs:
+C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.17\src\var.rs:
+C:\Users\lucas\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.17\src\private.rs:
+C:\Users\lucas\OneDrive\Desktop\rust_cassino\target\release\build\thiserror-21ed0a303295c3c9\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\lucas\\OneDrive\\Desktop\\rust_cassino\\target\\release\\build\\thiserror-21ed0a303295c3c9\\out
