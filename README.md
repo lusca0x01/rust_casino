@@ -187,5 +187,5 @@ This proves that outcomes were predetermined and not manipulated in real-time.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-**Note**: This is an educational project demonstrating provably fair game mechanics. Please gamble responsibly and be aware of local gambling laws and regulations.
+Note: This is an educational project demonstrating provably fair game mechanics. Please gamble responsibly and be aware of local gambling laws and regulations.
 ---
