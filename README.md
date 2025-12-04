@@ -156,7 +156,7 @@ time::sleep(time::Duration::from_secs(2)).await; // line 70
 
 ### Video Demonstration
 
-_[Space reserved for video demonstration]_
+https://github.com/user-attachments/assets/210c2e72-a937-44e6-b35f-0888d3494a15
 
 ## How to Verify Game Fairness
 
@@ -188,3 +188,4 @@ This proves that outcomes were predetermined and not manipulated in real-time.
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 **Note**: This is an educational project demonstrating provably fair game mechanics. Please gamble responsibly and be aware of local gambling laws and regulations.
+---
